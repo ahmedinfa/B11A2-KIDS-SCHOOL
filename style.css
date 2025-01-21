@@ -195,7 +195,7 @@ header nav .container i {
 #curriculum .container .curriclum-container {
   width: 100%;
   height: fit-content;
-  margin-top: 7rem;
+  margin-top: 8rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -269,7 +269,7 @@ header nav .container i {
 #stories {
   width: 100%;
   height: fit-content;
-  padding: 5rem 0;
+  padding: 5rem 0 7rem 0;
   background: linear-gradient(to top, #f9e0b2, #f7f7f7, #f7f7f7);
 }
 
@@ -390,7 +390,7 @@ header nav .container i {
 #stories .container .btn {
   display: block;
   margin: 0 auto;
-  margin-top: 6rem;
+  margin-top: 10rem;
 }
 
 /* footer section styles */
